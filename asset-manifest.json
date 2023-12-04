@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ema-jhon/static/css/main.7d4412b8.css",
+    "main.js": "/ema-jhon/static/js/main.abd7fd64.js",
+    "static/js/787.46a62dc0.chunk.js": "/ema-jhon/static/js/787.46a62dc0.chunk.js",
+    "index.html": "/ema-jhon/index.html",
+    "main.7d4412b8.css.map": "/ema-jhon/static/css/main.7d4412b8.css.map",
+    "main.abd7fd64.js.map": "/ema-jhon/static/js/main.abd7fd64.js.map",
+    "787.46a62dc0.chunk.js.map": "/ema-jhon/static/js/787.46a62dc0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7d4412b8.css",
+    "static/js/main.abd7fd64.js"
+  ]
+}
